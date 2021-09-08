@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#menu {
+    border-right: 1px solid black;
+}
+#menu a {
+    text-decoration: none;
+}
+#document h1, #document h2, #document h3, #document h4, #document h5, #document h6
+{
+    margin-top: 30px;
+}
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#document {
+    word-wrap: break-word;
+}
+
+#document h1 {
+    text-decoration-line: underline;
+}
+
+#document table {
+    padding: 10px;
+    
+}
+#document tr {
+    
+}
+#document td, #document th {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
