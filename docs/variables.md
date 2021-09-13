@@ -1,9 +1,42 @@
 # Variables
 
-A variable is used to store a value based on a data type. The types of a variable can change?????????
+A variable is a named container that stores data such as a number, text or an array.
+
+**Syntax**
+
+```
+let {variable_name} = {value};
+```
+
+## Declare and assign
+To declare and assign a varialble, see code below.
+
+**Code example**
+
+```
+let variable = "Hello, world!";
+print(variable);
+```
 
 ## Assignment
 
+**Code example**
 
-## Retrival
+```
+let variable = "";
 
+/* We assign "Hello, world!" to variable below */
+variable = "Hello, world!";
+print(variable);
+```
+
+# Retrieve value of variable
+
+**Code example**
+
+```
+let variable = "Hello, world!";
+
+/* We use variable below and print out the value */
+print(variable);
+```

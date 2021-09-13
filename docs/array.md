@@ -1,26 +1,15 @@
 # Array
 
-
-
-
-
-
-
-INSERT DESCRIPTION OF AN ARRAY
-
-
-
-
-
-
-
+Arrays in HuwCode are ordered map. Each entry in an array contains a key and a value. Individual entries are referenced by key. Arrays can be used to store lists of data by key and value. Value in this case can be any type within HuwCode such as a Number, String or Array.
 
 ## Create an array
 
-array()
+**Syntax**
+`array()`
+
 Array function returns an array. Array function requires 0 arguments.
 
-Associative Array is an abstact collection of key, value pairs. The internal implementation of the array within HuwCode is implemented with std::unordered_map.
+Associative Array is an abstact collection of key, value pairs. The internal implementation of the array within HuwCode is implemented with [std::map](https://en.cppreference.com/w/cpp/container/map).
 
 ```
 let list = array();
@@ -28,6 +17,7 @@ let list = array();
 
 ## Get value in an array
 An element can be access by the key in an array by using square brackets. E.g. array["element1"];.
+
 ```
 let list = array();
 list["item1"] = "Item 1";
@@ -36,6 +26,7 @@ print(list["item1"]);
 
 ## Set value in an array
 An element can be set in an array by the key by using square brackets. E.g. array["element1"] = "Hello World!";
+
 ```
 let list = array();
 list["item1"] = "Item 1";
@@ -43,10 +34,11 @@ print(list);
 ```
 
 ## ArrayUnset
-arrayUnset(array, key)
+`arrayUnset(array, key)`
+
 ArrayUnset function removes the value in the associative array by the key.
 
-## Example
+**Code example**
 ```
 let i = 0;
 let list = array();
