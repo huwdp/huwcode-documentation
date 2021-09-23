@@ -24,7 +24,7 @@ inStrRev("hello world", "world") /* Result is 10 */
 ## ToLower
 `toLower(variable)`
 
-ToLower function converts the argument string to lowercase and returns the value. ToLower function requires 1 arguments. ToLower function requires 1 argument.
+ToLower function converts the argument string to lowercase and returns the value. ToLower function requires 1 argument.
 
 **Code example**
 
@@ -110,7 +110,7 @@ Space function returns a string with a specified number of spaces. Space functio
 ## Strcmp
 `strCmp(string, string)`
 
-StrCmp functions returns an integer value representing a the difference between the two arguments. StrCmp function requires 2 arguments.
+StrCmp functions returns an integer value representing the difference between the two arguments. StrCmp function requires 2 arguments.
 
 **Code example**
 

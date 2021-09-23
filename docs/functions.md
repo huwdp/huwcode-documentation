@@ -1,6 +1,6 @@
 # Functions
 
-There are two types of functions within HuwCode. One is the the built-in functions inside HuwInterpreter. These functions are always in the system and cannot be modifed, overridden or removed. The other type is the user defined function. This type allows users to create their own functions within the HuwCode language.
+There are two types of functions within HuwCode. One is the built-in functions inside HuwInterpreter. These functions are always in the system and cannot be modified, overridden or removed. The other type is the user defined function. This type allows users to create their own functions within the HuwCode language.
 
 **Syntax**
 

@@ -9,7 +9,7 @@ let {variable_name} = {value};
 ```
 
 ## Declare and assign
-To declare and assign a varialble, see code below.
+To declare and assign a variable, see code below.
 
 **Code example**
 

@@ -2,7 +2,7 @@
 ## FileExists
 `fileExists(file)`
 
-FileExists function returns 1 if file based on the specified file location exists, otherwise the function will return 0.
+FileExists function returns 1 if file based on the specified file location exists; otherwise the function will return 0.
 
 ## FileRead
 `fileRead(file)`

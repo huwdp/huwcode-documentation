@@ -1,7 +1,8 @@
 # Import
 `import(string)`
 
-Loads file and executes script. Useful for creating external libraries and external code.
+Loads a file and executes script. Useful for creating external libraries and external code.
+
 **Code examples**
 ```
 import("file.hco")

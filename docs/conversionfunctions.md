@@ -2,7 +2,7 @@
 ## Asc
 `asc(character)`
 
-Converts a character to an ASCII number. Asc function requires one arguments.
+Converts a character to an ASCII number. Asc function requires one argument.
 **Code example**
 ```
 asc("a") /* Result is 97 */
@@ -11,7 +11,7 @@ asc("a") /* Result is 97 */
 ## Cha
 `cha(integer)`
 
-Converts an ASCII number to a character as type string. Cha function requires one arguments.
+Converts an ASCII number to a character as type string. Cha function requires one argument.
 
 **Code example**
 

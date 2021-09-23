@@ -1,10 +1,10 @@
 # Sleep
 
-Sleep function causes the program to sleep for a number of miliseconds.
+Sleep function causes the program to sleep for a number of milliseconds.
 
 **Syntax**
 
-`sleep(miliseconds)`
+`sleep(milliseconds)`
 
 **Code example**
 ```

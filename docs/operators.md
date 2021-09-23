@@ -1,8 +1,8 @@
 # Operators
 
-Operators cannot be used for variable and function names. These operators for reserved for HuwCode. Precenence is in what order the parser parses operators like BODMAS.
+Operators cannot be used for variable and function names. These operators for reserved for HuwCode. Precedence is in what order the parser parses operators like BODMAS.
 
-| Precenence | Operator | Description          |
+| Precedence | Operator | Description          |
 |------------|----------|----------------------|
 | 1          | --       | DECREMENT            |
 | 1          | ()       | FUNCTION CALL        |

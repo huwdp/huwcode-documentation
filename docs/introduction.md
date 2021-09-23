@@ -18,19 +18,19 @@ HuwCode is built for Huw, hobbyists and computer enthusiasts.
 [Huw Pritchard](https://huwdp.co.uk/)
 
 **Why was HuwCode created?**
-HuwCode is a passion project and a project to learn how interpreters and abstracts syntax trees work. HuwCode is not mean't to be a big project and is not going to complete with the many other languages out there. *HuwCode is a toy scripting language*.
+HuwCode is a passion project and a project to learn how interpreters and abstracts syntax trees work. HuwCode is not meant to be a big project and is not going to complete with the many other languages out there. *HuwCode is a toy scripting language*.
 
 **Why was HuwCode named HuwCode?**
 The creator asked a few people and for suggestions for a name and "HuwCode" popped up. Huw would have named it something else with his name not in the project name.
 
 **Is HuwCode commercial?**
-The answer is No. HuwCode is under the GPL v3 license. HuwCode cannot be integrated with proprietry software. Please research GPL v3 for more information.
+The answer is No. HuwCode is under the GPL v3 license. HuwCode cannot be integrated with proprietary software. Please research GPL v3 for more information.
 
 **Will HuwCode include classes?**
-Maybe someday but due to difficulty in the code, it would be hard to implement. Also no one uses HuwCode so there's little insentive to add classes.
+Maybe someday but due to difficulty in the code, it would be hard to implement. Also no one uses HuwCode so there's little incentive to add classes.
 
 **Does HuwCode have a garbage collector**
-This is difficult one to answer. Yes, HuwCode manages the memory for you so you don't have to worry about memory managment. HuwCode does not have a generalised garbage collector but a naive one that would not be classes as a garbage collector in the programming language industry.
+This is difficult one to answer. Yes, HuwCode manages the memory for you so you don't have to worry about memory management. HuwCode does not have a generalised garbage collector but a naive one that would not be classes as a garbage collector in the programming language industry.
 
 **What operating systems does HuwCode support?**
 HuwCode is supported on *Linux* and *Windows*. HuwCode can be run for Mac OS with some tweaking.

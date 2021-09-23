@@ -9,7 +9,7 @@ Arrays in HuwCode are ordered map. Each entry in an array contains a key and a v
 
 Array function returns an array. Array function requires 0 arguments.
 
-Associative Array is an abstact collection of key, value pairs. The internal implementation of the array within HuwCode is implemented with [std::map](https://en.cppreference.com/w/cpp/container/map).
+Associative Array is an abstract collection of key, value pairs. The internal implementation of the array within HuwCode is implemented with [std::map](https://en.cppreference.com/w/cpp/container/map).
 
 ```
 let list = array();
