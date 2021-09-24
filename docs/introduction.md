@@ -18,7 +18,7 @@ HuwCode is built for Huw, hobbyists and computer enthusiasts.
 [Huw Pritchard](https://huwdp.co.uk/)
 
 **Why was HuwCode created?**
-HuwCode is a passion project and a project to learn how interpreters and abstracts syntax trees work. HuwCode is not meant to be a big project and is not going to complete with the many other languages out there. *HuwCode is a toy scripting language*.
+HuwCode is a passion project and a project to learn how interpreters and abstract syntax trees work. HuwCode is not meant to be a big project and is not going to complete with the many other languages out there. *HuwCode is a toy scripting language*.
 
 **Why was HuwCode named HuwCode?**
 The creator asked a few people and for suggestions for a name and "HuwCode" popped up. Huw would have named it something else with his name not in the project name.
@@ -35,4 +35,4 @@ This is difficult one to answer. Yes, HuwCode manages the memory for you so you 
 **What operating systems does HuwCode support?**
 HuwCode is supported on *Linux* and *Windows*. HuwCode can be run for Mac OS with some tweaking.
 
-There's an unfinished version of HuwCode for Webassembly too! See WASM link in the menu for that.
+There's a unfinished version of HuwCode for Webassembly too! See WASM link in the menu for that.
