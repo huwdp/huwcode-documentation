@@ -52,7 +52,7 @@ year(1440544844)
 ## Now
 `now()`
 
-Now function returns the current time and date based on a 32bit UNIX timestamp. Now function requires 0 argument.
+Now function returns the current time and date based on a 32bit UNIX timestamp. Now function requires 0 arguments.
 
 **Code example**
 ```

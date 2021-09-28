@@ -38,7 +38,7 @@ print(list);
 
 ArrayUnset function removes the value in the associative array by the key.
 
-**Code example**
+## Code examples
 ```
 let i = 0;
 let list = array();

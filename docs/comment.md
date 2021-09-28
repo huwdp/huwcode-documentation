@@ -1,6 +1,7 @@
+
 # Comment
 
-Comments start with "/*" and end with "*/". Comments can be multiline.
+Comments start with "/\*" and end with "\*/". Comments can be multiline.
 
 ## Examples
 
