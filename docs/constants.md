@@ -1,6 +1,6 @@
 # Constants
 
-HuwCode has a number of constants with pre-defined values. Constants cannot be used for variable names, these constants for reserverd for HuwCode.
+HuwCode has a number of constants with pre-defined values. Constants cannot be used for variable names, these constants for reserved for HuwCode.
 
 ## Pre-defined constants
 
