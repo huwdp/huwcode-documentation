@@ -3,6 +3,7 @@
 `asc(character)`
 
 Converts a character to an ASCII number. Asc function requires 1 argument.
+
 **Code example**
 ```
 asc("a") /* Result is 97 */
