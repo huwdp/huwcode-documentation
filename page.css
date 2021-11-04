@@ -3,6 +3,12 @@ body {
     word-wrap: break-word;
 }
 
+pre {
+  background: #ccc;
+  
+  padding: 5px;
+}
+
 #menu {
     border-right: 1px solid black;
 }
