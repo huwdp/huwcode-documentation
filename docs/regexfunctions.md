@@ -13,7 +13,7 @@ regexSearch("Roses are #ff0000", "#([a-f0-9]{2})"); /*  Returns true */
 ```
 
 ## Regex replace
-`regexReplace(text, regex, )`
+`regexReplace(text, regex)`
 
 Regex replace function matches and replaces any matched text with the Regex substitution.
 

@@ -15,15 +15,6 @@ Associative Array is an abstract collection of key, value pairs. The internal im
 let list = array();
 ```
 
-## Get value in an array
-An element can be access by the key in an array by using square brackets. E.g. array["element1"];.
-
-```
-let list = array();
-list["item1"] = "Item 1";
-print(list["item1"]);
-```
-
 ## Set value in an array
 An element can be set in an array by the key by using square brackets. E.g. array["element1"] = "Hello World!";
 
@@ -31,6 +22,15 @@ An element can be set in an array by the key by using square brackets. E.g. arra
 let list = array();
 list["item1"] = "Item 1";
 print(list);
+```
+
+## Get value in an array
+An element can be access by the key in an array by using square brackets. E.g. array["element1"];.
+
+```
+let list = array();
+list["item1"] = "Item 1";
+print(list["item1"]);
 ```
 
 ## ArrayUnset

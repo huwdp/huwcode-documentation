@@ -6,7 +6,7 @@ Month function will return a month number based on a UNIX timestamp.
 
 **Code example**
 ```
-month(1485199747)
+month(1485199747);
 ```
 
 ## MonthName
@@ -16,7 +16,7 @@ MonthName function returns the month name based on a number from 1 and 12.  Mont
 
 **Code example**
 ```
-monthName(month(1485199747))
+monthName(month(1485199747));
 ```
 
 ## WeekDay
@@ -26,7 +26,7 @@ Weekday function returns the weekday number based on a UNIX timestamp.  WeekDay 
 
 **Code example**
 ```
-weekday(1485199747)
+weekday(1485199747);
 ```
 
 ## WeekDayName
@@ -36,7 +36,7 @@ WeekDayName function returns the weekday name (e.g. Monday) based off UNIX times
 
 **Code example**
 ```
-weekdayName(1485199747)
+weekdayName(1485199747);
 ```
 
 ## Year
@@ -46,7 +46,7 @@ Year function returns the the year based on a UNIX timestamp given through an ar
 
 **Code example**
 ```
-year(1440544844)
+year(1440544844);
 ```
 
 ## Now
@@ -56,7 +56,7 @@ Now function returns the current time and date based on a 32bit UNIX timestamp. 
 
 **Code example**
 ```
-now()
+now();
 ```
 
 ## DateFormat
@@ -66,5 +66,5 @@ DateFormat function returns text based on time and formatting passed to the func
 
 **Code example**
 ```
-dateFormat(1485199747, "%A")
+dateFormat(1485199747, "%A");
 ```

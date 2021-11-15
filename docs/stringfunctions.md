@@ -7,7 +7,7 @@ InStr function will return the first occurrence of the searchable text within th
 **Code example**
 
 ```
-inStr("hello world", "world") /* Result is 6 */
+inStr("hello world", "world"); /* Result is 6 */
 ```
 
 ## InStrRev
@@ -18,7 +18,7 @@ InStr function will return the first occurrence of the searchable text within th
 **Code example**
 
 ```
-inStrRev("hello world", "world") /* Result is 10 */
+inStrRev("hello world", "world"); /* Result is 10 */
 ```
 
 ## ToLower
@@ -29,7 +29,7 @@ ToLower function converts the argument string to lowercase and returns the value
 **Code example**
 
 ```
-toLower("HELLO WORLD!") /* Result is hello world! */
+toLower("HELLO WORLD!"); /* Result is hello world! */
 ```
 
 ## Left
@@ -40,7 +40,7 @@ Left function extracts a substring from a string, starting from the left-most ch
 **Code example**
 
 ```
-left("Hello World!",5) /* Result is Hello */
+left("Hello World!",5); /* Result is Hello */
 ```
 
 ## Len
@@ -51,7 +51,7 @@ Len function returns the length of the specified string. Len function requires 1
 **Code example**
 
 ```
-len("Hello World!") /* Result is 12 */
+len("Hello World!"); /* Result is 12 */
 ```
 
 ## LTrim
@@ -62,7 +62,7 @@ LTrim function removes leading spaces from a string from left to right. LTrim fu
 **Code example**
 
 ```
-lTrim("   Hello World!") /* Result is Hello World! */
+lTrim("   Hello World!"); /* Result is Hello World! */
 ```
 
 ## Mid
@@ -73,7 +73,7 @@ Mid function extracts a substring from a string (starting at any position and wi
 **Code example**
 
 ```
-mid("Hello World!",2,5) /* Result is llo W */
+mid("Hello World!",2,5); /* Result is llo W */
 ```
 
 ## Right
@@ -84,7 +84,7 @@ Right function extracts a substring from a string starting from the right-most c
 **Code example**
 
 ```
-right("Hello World!",5) /* Result is Hello */
+right("Hello World!",5); /* Result is Hello */
 ```
 
 ## RTrim
@@ -95,7 +95,7 @@ RTrim function removes trailing spaces from a string from right to left. RTrim f
 **Code example**
 
 ```
-rTrim("Hello World!   ") /* Result is Hello World! */
+rTrim("Hello World!   "); /* Result is Hello World! */
 ```
 
 ## Space
@@ -105,7 +105,7 @@ Space function returns a string with a specified number of spaces. Space functio
 
 **Code example**
 
-```space(10)```
+```space(10);```
 
 ## Strcmp
 `strCmp(string, string)`
@@ -115,8 +115,8 @@ StrCmp functions returns an integer value representing the difference between th
 **Code example**
 
 ```
-strCmp("Hello World","Hello World") /* Result is 0 */
-strCmp("Hello World","Hello Earth") /* Result is 18 */
+strCmp("Hello World","Hello World"); /* Result is 0 */
+strCmp("Hello World","Hello Earth"); /* Result is 18 */
 ```
 
 ## StrRev
@@ -127,7 +127,7 @@ StrRev function returns a string in reverse order. StrRev function requires 1 ar
 **Code example**
 
 ```
-strRev("!dlroW olleH") /* Result is Hello World! */
+strRev("!dlroW olleH"); /* Result is Hello World! */
 ```
 
 ## Trim
@@ -138,7 +138,7 @@ Trim function returns a text value with the leading and trailing spaces removed 
 **Code example**
 
 ```
-trim("  Hello World!  ") /* Result is Hello World! */
+trim("  Hello World!  "); /* Result is Hello World! */
 ```
 ## ToUpper
 `toUpper(string)`
@@ -148,5 +148,5 @@ ToUpper function converts and returns the argument with uppercase characters. To
 **Code example**
 
 ```
-toUpper("hello world!") /* Result is HELLO WORLD! */
+toUpper("hello world!"); /* Result is HELLO WORLD! */
 ```
