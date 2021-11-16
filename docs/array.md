@@ -1,6 +1,6 @@
 # Array
 
-Arrays in HuwCode are ordered map. Each entry in an array contains a key and a value. Individual entries are referenced by key. Arrays can be used to store lists of data by key and value. Value in this case can be any type within HuwCode such as a Number, String or Array.
+Arrays in HuwCode internally are ordered maps, arrays useful for storing things in lists. Each entry in an array contains a key and a value and each individual entry can be referenced by the key. Values in this case can contain any type such as a Number, String or Array.
 
 ## Create an array
 
