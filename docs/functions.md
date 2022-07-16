@@ -37,19 +37,6 @@ add(1,2);
 
 In the code above we pass 1 as x and 2 as y to the add function. The functions adds x and y, and then prints the value.
 
-### Passing arguments as a reference
-
-Wrap a variable using ref function to pass variables as a reference.
-
-```
-function changeValue(value)
-{
-    value = "Hello, Galaxy!";
-}
-let text = "Hello, world!";
-print(changeValue(ref(text)));
-```
-
 ## Returning a value
 
 ```
